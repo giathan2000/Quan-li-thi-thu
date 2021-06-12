@@ -1,0 +1,62 @@
+﻿Build started 6/23/2020 1:52:33 PM.
+     1>Project "C:\Users\Admin\documents\visual studio 2013\Projects\CTDLGT6\CTDLGT6\CTDLGT6.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt maincpp.cpp
+         maincpp.cpp
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(16): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(29): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(45): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(525): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(535): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(550): warning C4129: 'A' : unrecognized character escape sequence
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(677): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(718): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(747): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(876): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(1020): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(1051): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(1111): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(1201): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(1300): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulylophoc.h(64): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulymonhoc.h(473): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulymonhoc.h(504): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulymonhoc.h(640): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulymonhoc.h(910): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulymonhoc.h(936): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulymonhoc.h(946): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulymonhoc.h(947): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulymonhoc.h(1035): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulybaithi.h(663): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulybaithi.h(767): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\fronte.h(26): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\fronte.h(73): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\fronte.h(155): warning C4102: 'reenterpw' : unreferenced label
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\fronte.h(202): warning C4101: 'flag' : unreferenced local variable
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(909): warning C4715: 'so_sanh_string' : not all control paths return a value
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\tum_lum.h(925): warning C4715: 'so_sanh_ho_ten' : not all control paths return a value
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\avl.h(159): warning C4715: 'BalanceLeft' : not all control paths return a value
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\avl.h(179): warning C4715: 'BalanceRight' : not all control paths return a value
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\avl.h(354): warning C4715: 'DelNode' : not all control paths return a value
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\doc_ghi_file.h(334): warning C4715: 'insert_after' : not all control paths return a value
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\doc_ghi_file.h(396): warning C4715: 'delete_first' : not all control paths return a value
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\doc_ghi_file.h(406): warning C4715: 'delete_after' : not all control paths return a value
+     1>c:\users\admin\documents\visual studio 2013\projects\ctdlgt6\ctdlgt6\xulylophoc.h(61): warning C4715: 'Tim_sinh_vien_theo_ma_sv' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\documents\visual studio 2013\Projects\CTDLGT6\Debug\CTDLGT6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Admin\documents\visual studio 2013\Projects\CTDLGT6\Debug\CTDLGT6.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\documents\visual studio 2013\Projects\CTDLGT6\Debug\CTDLGT6.lib" /MACHINE:X86 Debug\maincpp.obj
+         CTDLGT6.vcxproj -> C:\Users\Admin\documents\visual studio 2013\Projects\CTDLGT6\Debug\CTDLGT6.exe
+     1>Done Building Project "C:\Users\Admin\documents\visual studio 2013\Projects\CTDLGT6\CTDLGT6\CTDLGT6.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.50
